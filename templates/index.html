@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Search Page</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="form">
+      <form method="POST">
+        {{ form.hidden_tag() }} {{ form.search.label }} {{ form.search() }} {{
+        form.submit() }}
+      </form>
+    </div>
+    <div >
+      {% for links,score in results.items() %}
+      <br>
+      <div class="card" style="margin: 10px;">
+        <a href="{{ links }}" style="
+        background-color: #9E9E9E;
+        color: #474949;
+        padding: 1rem;
+        border-radius: 5px;
+        
+    ">{{ links }}</a><br>
+      </div>
+      <!-- <p>Score: {{ score }}</p> -->
+      {% endfor %}
+    </div>
+  </body>
+</html>
