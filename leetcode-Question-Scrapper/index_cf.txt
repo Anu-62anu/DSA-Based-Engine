@@ -1,0 +1,1257 @@
+H. Holiday Wall Ornaments
+A. NEKO's Maze Game
+A. Function Height
+D. K-good
+A. Boy or Girl
+A. Substring and Subsequence
+B. Cinema Cashier
+D. Rorororobot
+E. Verifying Kingdom
+D. REQ
+E. Lucky Arrays
+C1. Distinguish zero state and plus state with minimum error
+B. Case of Fugitive
+A. Robbers' watch
+F2. Alice and Recoloring 2
+B. Chess Cheater
+D. Bubble Popping
+A. Mind Control
+E1. Erase and Extend (Easy Version)
+A. Police Recruits
+A. Lucky Numbers
+F. All Possible Digits
+C. Lucky Permutation
+C. Help Greg the Dwarf
+E. Lada Malina
+A. Jeff and Rounding
+A. Wasted Time
+A. Gambling Nim
+C. Kuro and Walking Route
+D. Friends and Subsequences
+E. Game Bundles
+14. Labyrinth-14
+B. Widget Library
+A. Checking the Calendar
+F. Topforces Strikes Back
+B. School Marks
+D. Fill The Bag
+B. Minimum number of steps
+C. Coloring Trees
+F2. Animal Observation (hard version)
+H. Olympic Team Building
+A. Two Elevators
+B. Seasons
+C. Points on Plane
+E. Thwarting Demonstrations
+A. Two Rival Students
+C. Delete Two Elements
+C. Molly's Chemicals
+A. Paper Airplanes
+B. Fibonacci Strings
+D. Reality Show
+B. Maximum Sum
+G. Partitions
+E. JYPnation
+B. Mike and Feet
+A. Primal Sport
+E. Chemistry in Berland
+D. Three Sons
+A. Perfect Permutation
+C. Mail Stamps
+E. Cubes
+A. Suborrays
+B. Buying gifts
+F. The Moral Dilemma
+E. Intergalaxy Trips
+A. I Wanna Be the Guy
+G. The Morning Star
+F. Gardening Friends
+B2. Range Sorting (Hard Version)
+F. Burenka, an Array and Queries
+D. Missile Silos
+C. Hyperregular Bracket Strings
+C. Omkar and Baseball
+I. Palindrome Pairs
+C. Looking for Order
+B. Sereja ans Anagrams
+C. Killjoy
+E. Avoid Rainbow Cycles
+B. Optimal Reduction
+B. Roman Digits
+A. Plus One on the Subset
+C. Skier
+C. Peterson Polyglot
+C. Strange Game On Matrix
+G. Counting Shortcuts
+C1. Brain Network (easy)
+A. Spit Problem
+D. Vitaly and Cycle
+D. Black Cells
+A. Copil Copac Draws Trees
+C. Vampiric Powers, anyone?
+A. Food for Animals
+B. Dima and Sequence
+G. Inverse of Rows and Columns
+D. Fight with Monsters
+E. LIS of Sequence
+D. Coffee Varieties (hard version)
+G2. Vlad and the Nice Paths (hard version)
+D. Omkar and Bed Wars
+A. Prefix and Suffix Array
+F. XOR Partition
+G. Happy Line
+C. Predict Outcome of the Game
+C. Link Cut Centroids
+B. Marin and Anti-coprime Permutation
+B. Dasha and friends
+J. Triminoes
+E. Ambiguous Dominoes
+G. Alpha planetary system
+E. Freezing with Style
+E. Tree Calendar
+A. Points and Segments (easy)
+F. Dirty Arkady's Kitchen
+F. Passports
+F. Comfortably Numb
+C. Prime Swaps
+A. Space Navigation 
+E. Triangle Platinum?
+E. Kuroni and the Score Distribution
+E. Strange Function
+A. The Fair Nut and the Best Path
+A. Help Victoria the Wise
+D. Xor Spanning Tree
+E. Choosing Carrot
+E2. Minibuses on Venus (medium version)
+A. Vladik and Courtesy
+D. Bash and a Tough Math Puzzle
+F. Li Hua and Path
+B. Print Check
+D. Biathlon Track
+B. Treasure Hunt
+C. Vulnerable Kerbals
+F. Cyclic Cipher
+G. Game On Tree
+C. Two TVs
+D. Metro Scheme
+C. Without Text
+D. Fibonacci Sums
+F. Field Photography
+F. Bears and Juice
+G. Chattering
+D. Maximum Subarray
+A. Asphalting Roads
+A. Toda 2
+J. Segments
+M. Bottle Arrangements
+A. Sereja and Coat Rack
+G3. Good Substrings
+D. Deletive Editing
+H. Yuezheng Ling and Dynamic Tree
+A. Maxmina
+B. Lord of the Values
+B. Vasya and Types
+C. Phoenix and Towers
+F. Mashtali: a Space Oddysey
+E. Sum of Remainders
+B. Optimal Point on a Line
+E. Antenna Coverage
+G. GCD Counting
+A. I'm bored with life
+D. Dreamoon Likes Strings
+B. Ilya and tic-tac-toe game
+D. Beautiful Pairs of Numbers
+A. SwapSort
+D. Transferring Pyramid
+A2. Heidi Learns Hashing (Medium)
+E. Down or Right
+B. Sets
+D. Prime Graph
+B. Amr and The Large Array
+D. Teamwork
+B. Partial Replacement
+E. Black Cat Rush
+D. Edges in MST
+C. Andryusha and Colored Balloons
+C. Network Mask
+G. To Make 1
+C. Fools and Roads
+B. Smallest number
+C. Rudolf and the Another Competition
+A. Minimal Square
+F. MEX vs MED
+D2. Two Hundred Twenty One (hard version)
+F. Choose a Square
+D. Soldier and Number Game
+E. Sorting Permutations
+B. Naughty Stone Piles
+D. Largest Submatrix 3
+D. Cinema
+A. Reconnaissance
+E. Power Board
+C. Ball in Berland
+E. Ostap and Tree
+B. Array merging
+C. Cypher
+D. Physical Education and Buns
+C. Petya and File System
+F. Restore the Permutation by Sorted Segments
+A. Alternative Thinking
+E. Egor in the Republic of Dagestan
+D. Hemose in ICPC ?
+D. Subsequence
+B. Sereja and Periods
+G. Sum of Prefix Sums
+A. Prime Permutation
+A. Directional Increase
+B. Ideal Point
+C. Inna and Huge Candy Matrix
+E. LuoTianyi and Cartridge
+E. Company
+A. Plug-in
+C. Little Elephant and Shifts
+A. Piles With Stones
+F. Non-equal Neighbours
+A. Elevator
+D2. Constrained Tree
+A. Mainak and Array
+E2. String Coloring (hard version)
+E. Road to Home
+E. Mashmokh's Designed Problem
+E2. Root of quantum Fourier transform
+D. Toss a Coin to Your Graph...
+E. Bear and Bad Powers of 42
+E. Binary Key
+A. Goshtasp, Vishtasp and Eidi
+B. Little C Loves 3 II
+B. Graph Coloring
+B. Sort the Subarray
+C. Perform Easily
+A. Card Game
+D. Appleman and Complicated Task
+A. Functions again
+C1. Powering the Hero (easy version)
+B. Nauuo and Chess
+B. Harry Potter and the History of Magic
+E. Hammer throwing
+E. Explosions?
+B. Moderate Modular Mode
+A. Bad Ugly Numbers
+C. Vasily the Bear and Sequence
+B. Draw!
+J. Renovation
+D. Game with Powers
+B. Toys
+B. Game on Ranges
+D. You Are Given a Tree
+C2. Skyscrapers (hard version)
+B. Plus from Picture
+B. Remove Prefix
+B. Blog Photo
+C. Thermostat
+B. The Bakery
+B2. Military Trainings
+A. Mr. Kitayuta's Gift
+A. Robot Cleaner
+D. INOI Final Contests
+D. Karen and Cards
+E. Median Mountain Range
+C. A and B and Team Training
+A. Stable Arrangement of Rooks
+B. Hard Work
+C1. Errich-Tac-Toe (Easy Version)
+B. Sort the Array
+K. Kingdom Partition
+C. Hamburgers
+E. Yurii Can Do Everything
+B. Make Them Odd
+C. Vanya and Exams
+B. Timofey and cubes
+H. Code Lock
+C. New Year and Curling
+A. Fake NP
+A. Tavas and Nafas
+I. Mysterious language again, seriously?
+D. Jongmah
+A. Trip For Meal
+A. Doremy's IQ
+D. The Wu
+A. LuoTianyi and the Palindrome String
+G. Speckled Band
+A. Mean Inequality
+A. Knight Tournament
+E1. Permutation Minimization by Deque
+I. Good Subsets
+D. Relatively Prime Graph
+D. Caesar Cipher
+B. Gregor and the Pawn Game
+F. Tubular Bells
+B. Recover the String
+C. Tyler and Strings
+B. Histogram Ugliness
+A. Arpa and a research in Mexican wave
+B. Bad Boy
+B. Vasily the Bear and Fly
+D3. PE Lesson
+C. Flawed Flow
+F. LEGOndary Grandmaster
+G. Recursive Queries
+A. Mahmoud and Ehab and the even-odd game
+D. Plus and xor
+C. Socks
+E. Graph Cost
+B. Well-known Numbers
+A. Knapsack
+A. Broken Clock
+D1. Sage's Birthday (easy version)
+B. The Time
+E. X-OR
+C. Berry Jam
+D. Game on Axis
+B. Make Product Equal One
+F. Ehab and a weird weight formula
+A. Hockey
+C. Move Brackets
+A. Maximum Increase
+G. Oracle for f(x) = k-th element of x
+C. Greedy Arkady
+F. Vitaly and Advanced Useless Algorithms
+E. Nikita and game
+A. Contest for Robots
+A1. Toy Train (Simplified)
+E. Fourier Doodles
+D. Prefixes and Suffixes
+E. Expected Components
+B. Fafa and the Gates
+D. Prefixes and Suffixes
+E. Expected Components
+B. Fafa and the Gates
+D. Gourmet choice
+D. Used Markers
+C. DZY Loves Fibonacci Numbers
+B. Students in Railway Carriage
+E2. Rudolf and Snowflakes (hard version)
+C. Tourist Problem
+A. Buses Between Cities
+A. Tricky Alchemy
+A. Arena of Greed
+C. Boredom
+C. Bakry and Partitioning
+B. Help Kingdom of Far Far Away 2
+E. Boboniu and Banknote Collection
+C. Cycle
+D. Distinct Split
+B. Square
+A. Privatization
+E1. Square-Free Division (easy version)
+B. Ant Man
+A1. Educational Game
+C. K-th Not Divisible by n
+D8. The Beaver's Problem - 3
+C. Tanya and Toys
+C. Shaass and Lights
+B. Searching Rectangles
+D. Compute Power
+G. Construct the String
+A. Kyoya and Colored Balls
+A. Bad Triangle
+A. Rank List
+D. Vasya and Triangle
+A. Add Odd or Subtract Even
+E. Decomposition
+E. Sonya and Ice Cream
+E. Centroid Probabilities
+A. Even Odds
+A. Tritonic Iridescence
+A. Best Subsegment
+C. Substring Game in the Lesson
+E. Decypher the String
+F. Primes in Interval
+I. Cubic Lattice
+A. Elephant
+E. Typical Party in Dorm
+C. Beautiful IP Addresses
+E. Train Hard, Win Easy
+A. IQ Test
+B. Mike and strings
+B. Wallpaper
+B. Crash
+E. New Year Tree
+D. Steps to One
+C. NN and the Optical Illusion
+F. Prefix Sums
+C. Round Table Knights
+B. Jamie and Binary Sequence (changed after round)
+A. Regular Bracket Sequences
+H. Modest Substrings
+B. Word Cut
+D. Fox And Jumping
+B. Surrounded
+G. Vladislav and a Great Legend
+B. Xor of 3
+C. String Manipulation 1.0
+D. Weights Assignment For Tree Edges
+E. Tourists
+B. All the Vowels Please
+E. Making Anti-Palindromes
+A. Beat The Odds
+G. Switch and Flip
+F. New Year and Social Network
+E. Number of Components
+E. Flow Optimality
+D1. Coffee and Coursework (Easy version)
+E. Move and Swap
+D1. Two Hundred Twenty One (easy version)
+A. Shovels and Swords
+E. Different Subsets For All Tuples
+D. Berland Fair
+F2. Wrong Answer on test 233 (Hard Version)
+F. Binary String Partition
+D. Chain Letter
+A. Face Detection
+D. Row Major
+E. Divide Points
+A. Tom Riddle's Diary
+E2. Divisible Numbers (hard version)
+E. New task
+E. Poman Numbers
+E. Build String
+E. Expression
+B. Arrays Sum
+B. Sereja and Suffixes
+C. The Intriguing Obsession
+D2. Balance (Hard version)
+E. Alien DNA
+D. Fun with Integers
+D1. Optimal Subsequences (Easy Version)
+D. Tree
+C. U2
+D2. The Wall (medium)
+F. Make k Equal
+B. Same Parity Summands
+A. Parallel Projection
+D. Create a Maze
+F. Omkar and Akmar
+D. BerDonalds
+A3. Collective Mindsets (hard)
+E. Two Platforms
+A. Make A Equal to B
+E3. Minibuses on Venus (hard version)
+B. Woeful Permutation
+B. Frog Jumping
+A. Watching a movie
+F. TorCoder
+D. Antimatter
+B. Space Isaac
+D. Not Adding
+F. Vus the Cossack and a Graph
+D. Board Game
+D. Turtles
+C. Moon Craters
+F. Basis
+B. Magical Calendar
+F. Frogs and mosquitoes
+C. Constellation
+B. Jeff and Periods
+D. Bear and Contribution
+E. Sereja and Sets
+G. Cross Xor
+B. Taxi
+C. Primes and Multiplication
+B. Water Lily
+E. Sonya and Matrix Beauty
+B. JOE is on TV!
+E. Finding the Vertex
+G. Array Sorting
+F. Train Splitting
+G. Functions On The Segments
+F. AND Segments
+F. Multi-Colored Segments
+I. Cyclic Shifts
+G1. Inversions problem
+B2. Palindrome Game (hard version)
+D6. The Beaver's Problem - 3
+A. Find Array
+J. Brackets
+C. Bear and Prime Numbers
+E. Skyline Photo
+D1. Red-Blue Operations (Easy Version)
+J. Tiling Terrace
+L. Divide The Students
+C. Peaceful Rooks
+C. Football Championship
+A. Transformation: from A to B
+E. Plan of Lectures
+E. Bits of merry old England
+F. Dogecoin
+G. Low Budget Inception
+C. Madoka and Childish Pranks
+I. Intriguing Selection
+C. Little Alawn's Puzzle
+B. Aerodynamic
+F. Equate Multisets
+D. Gold Rush
+E. Robot on the Board 1
+C. Circle of Monsters
+A. Fashion in Berland
+E. Rock, Paper, Scissors
+A. Diplomas and Certificates
+C. Tourist's Notes
+D. Secret Santa
+D. New Year's Problem
+A. Cakeminator
+D. Add to Neighbour and Remove
+B. Make It Increasing
+A. Postcards and photos
+A. And Matching
+E. Prime Segment
+D. Bit Guessing Game
+A2. Add on a Tree: Revolution
+A. Visiting a Friend
+C. Bun Lover
+E. The Fair Nut and Rectangles
+E. Aquarium decoration
+C. Duff in the Army
+B. Cosmic Tables
+C. Cubeword
+A. Rectangle Puzzle
+A. Trains
+C. Shawarma Tent
+A. Photo of The Sky
+A. Mystical Mosaic
+A. Crystal Ball Sequence
+E. Palindromic Doubles
+E. Cow Tennis Tournament
+B. Color the Fence
+B. Valera and Fruits
+C. Building a Fence
+G3. Doremy's Perfect DS Class (Hard Version)
+A. Number Transformation
+D. Nephren Runs a Cinema
+E. Vanya and Field
+A. Clothes
+G2. In Search of Truth (Hard Version)
+B. Christmas Spruce
+H. Points in triangle
+A. Distance and Axis
+F. Madoka and Laziness
+A. Raising Bacteria
+J. Stepan's Series
+F. Strange Instructions
+E. Mad Joe
+E. Alphabet Permutations
+A. New Year Transportation
+C. Cutting Rectangle
+E. Maximum Questions
+E. Magical Permutation
+D. Recover the Tree
+M. The Pleasant Walk
+A. Coins
+D. Plane of Tanks: Duel
+E. Two Houses
+F1. Marek and Matching (easy version)
+C. Bear and Square Grid
+D. Incorrect Flow
+A. Twins
+F. Optimal Encoding
+B. On Corruption and Numbers
+C. Add One
+F. Two Subtrees
+C1. Sheikh (Easy version)
+B. Drinks
+C. Stripe 2
+A. Strange Table
+E. Logical Expression
+D. King's Problem?
+K. Pandemic Restrictions
+A. Contest Start
+A. Difference Row
+C. Misha and Forest
+I. Show Must Go On
+E. Balanced Binary Search Trees
+F. Desktop Rearrangement
+F. New Year Snowflake
+C. Train and Queries
+C. Dungeons and Candies
+H. Oracle for f(x) = parity of the number of 1s in x
+A. BowWow and the Timetable
+A. 24 Game
+E. Birthday
+A. Scarborough Fair
+D. Inna and Sweet Matrix
+E. Reverses
+N. April Fools' Problem (medium)
+D. Mouse Hunt
+C. Contrast Value
+B. Math Show
+A. Not Shading
+F1. Script Generation
+D1. All are Same
+E. Swap and Take
+F. Niyaz and Small Degrees
+B. Lazy Student
+E. Yet Another Task with Queens
+B. Seating On Bus
+E. Anton and Ira
+D. Count Good Substrings
+D2. PE Lesson
+D. Yet Another Array Queries Problem
+A. Consecutive Sum Riddle
+C. Minimum Value Rectangle
+C. Palindromic Paths
+B. Substring Removal Game
+B. AND Sequences
+A. Numbers Joke
+E. Hemose on the Tree
+E. Earth Wind and Fire
+D. Artsem and Saunders
+B. New Year and Old Property
+B. AquaMoon and Chess
+A. Magical Sticks
+E. Beads
+D2. Submarine in the Rybinsk Sea (hard edition)
+D. Sloth
+A. String Task
+C. Dishonest Sellers
+C. Two Teams Composing
+D. Beautiful Road
+K. Uniform Chemistry
+I. Interactive Rays
+B. Bakery
+G. Count Voting
+D. River Locks
+E. XOR and Favorite Number
+C. Journey
+D. Lost Tree
+A. Binary Decimal
+A. Potion-making
+E2. Array and Segments (Hard version)
+D3. Escaping on Beaveractor
+F. Points
+E. Sequence Transformation
+A. Data Recovery
+H. Xor-quiz
+B. The Great Hero
+E. Inversions After Shuffle
+B. AquaMoon and Stolen String
+B. Mike and Children
+A. On Segment's Own Points
+A. Searching Local Minimum
+C1. The Great Julya Calendar
+C. Compress String
+E. Fibonacci Number
+D2. Pattern of increasing blocks
+I. Ice Cream Shop
+D. Captain America
+B. Letters Rearranging
+D. World of Tank
+F. Reverse
+E. Special Graph
+D. Dog Show
+A. Bit++
+E. Max History
+B. Incinerate
+B. Prefix Removals
+B. Two Sets
+D. Directed Roads
+G. Gates to Another World
+E. Intellectual Inquiry
+C. Obtain The String
+B. Segment Occurrences
+A. Chip Game
+E. Minimum Array
+D. Minimum path
+B. Little Elephant and Sorting
+C. Shooting Gallery
+B. Substring Removal
+A1. Prefix Flip (Easy Version)
+A. Perfectly Imperfect Array
+D1. Hyperspace Jump (easy)
+B. New Year and Buggy Bot
+C. Destroying Array
+F. Cakes for Clones
+B. Vlad and Candies
+A. Web of Lies
+C. Stripe
+C1. Alternating bits oracle
+E. Billiard
+E. Tree-String Problem
+F1. Falling Sand (Easy Version)
+E. Check Transcription
+D6. Hessenberg matrix
+F. New Year and Handle Change
+B. Mashmokh and Tokens
+E. Maximize Mex
+C. Border
+F. Bits And Pieces
+E. Staircases
+E. Fish
+D. Tourism
+E. Riding in a Lift
+A. Repeating Cipher
+H. Ember and Storm's Tree Game
+E. Tree with Small Distances
+C. Fifa and Fafa
+A. Digits Sequence (Easy Edition)
+B. Non-square Equation
+B. Prime Matrix
+D. Cycles in product
+G. Berserk Robot 
+B. Lemmings
+D. Walk on Matrix
+B. Hongcow Solves A Puzzle
+A. Cashier
+F. Santa Clauses and a Soccer Championship
+B. Even-Odd Increments 
+D. Water Tree
+H. Benches
+D. Wilbur and Trees
+D. Ice Sculptures
+E. Police Patrol
+A. Vasya and Digital Root
+A. Division?
+D. Analyzing Polyline
+B. Prove Him Wrong
+D. Segments
+A. Simply Strange Sort
+D. Tree Elimination
+A. In Search of an Easy Problem
+F. Interacdive Problem
+B. Biridian Forest
+C. Find Pair
+B. Epic Novel
+A. Divide and Multiply
+D. Vertical Paths
+D. The Minimum Number of Variables
+I. Tenzing and Necklace
+C. Page Numbers
+F. The Boss's Identity
+B. Calendar
+D. Rectangle Painting 1
+B. Array
+F. Berland and the Shortest Paths
+B. Arpa's weak amphitheater and Mehrdad's valuable Hoses
+G. Hungarian Notation
+A. Old Peykan
+A. Subtractions
+D. Another Problem About Dividing Numbers
+E. Water Level
+K. Key Storage
+J. Date calculation
+D. Checkpoints
+D. Cutting Out
+I. Falling Blocks
+D. Expected diameter of a tree
+D. Unbearable Controversy of Being
+A. Flying Saucer Segments
+E. Off by One
+B2. LuoTianyi and the Floating Islands (Hard Version)
+D2. Too Many Segments (hard version)
+D. Isolation
+C. Vlad Building Beautiful Array
+A. Grid game
+A. The Fair Nut and Elevator
+C. Lock Puzzle
+C. Zero-One
+D. Buy Low Sell High
+A. Madoka and Strange Thoughts
+A. Skyscrapers
+C. Cd and pwd commands
+F. PolandBall and Gifts
+D. Touchy-Feely Palindromes
+E. The Unbearable Lightness of Weights
+D. International Olympiad
+F. Katya and Segments Sets
+B. The Cake Is a Lie
+F. M-tree
+D. Restoration of string
+D. Fuzzy Search
+E. DeadLee
+D. Reachable Strings
+G. Lucky Tickets
+C. Tokitsukaze and Duel
+E. Matrix and Shifts
+D. Zookeeper and The Infinite Zoo
+F. Fishermen
+A. Do you want a date?
+D. Brand New Problem
+B. Candies Division
+B. Sorted Adjacent Differences
+I. Say Hello
+A. Domino Disaster
+A. Integer Moves
+C. Alyona and towers
+C. Number Transformation II
+F. Video Cards
+B. Equidistant String
+C. Winnie-the-Pooh and honey
+A. A+B?
+C. Lose it!
+E. Expected Value Again
+B. DZY Loves Chemistry
+D. Minimum Diameter Tree
+B. Mishka and trip
+B3. Greedy Merchants
+D. Lizards and Basements 2
+D. Watch the Videos
+A. Chess For Three
+G. Greedy Subsequences
+C3. Brain Network (hard)
+E. Sending a Sequence Over the Network
+F. Cupboards Jumps
+B. Maximal Continuous Rest
+C. Magnum Opus
+E. TV Game
+D. Exams
+E. Strange device
+C. Strange Shuffle
+F. Mages and Monsters
+B. Mr. Kitayuta's Colorful Graph
+D1. The Wall (easy)
+A. Avoid Trygub
+I. Impressive Harvesting of The Orchard
+B. Intersection
+B. Tolik and His Uncle
+B. ICPC Balloons
+C. Interactive Bulls and Cows (Hard)
+B. Kids' Riddle
+B. Unary
+B. Groups
+D. Divisors
+D. MEX Sequences
+E. Comb
+F. Goats and Wolves
+H. Exchange of Books
+B. Magic Tree
+C. Levels and Regions
+B. Stone Age Problem
+A. Triangle
+G1. Vlad and the Nice Paths (easy version)
+H. Queries for Number of Palindromes
+G. Maximize the Remaining String
+C. Basic Diplomacy
+D. Snake
+D. Horse Races
+A2. Generate equal superposition of four basis states
+D. Infinite Set
+D. Full Binary Tree Queries
+D. Firecrackers
+B. Matchmaker
+D. Alex and Julian
+B. Beautiful Paintings
+A1. Generate superposition of all basis states
+A. Key races
+C. Plumber
+B. Squares
+G. Garage
+A. Forbidden Integer
+H. Make Square
+D. Roads in Yusland
+B. Laurenty and Shop
+C. Air Conditioner
+B. Non-Coprime Partition
+G. Name the album
+A. Search for Pretty Integers
+C. Bargain
+G. New Year and the Factorisation Collaboration
+E. Soldier and Traveling
+F2. Checker for Array Shuffling
+C. Cowboys
+B. Mushroom Scientists
+D. Painting Square
+D. Big Brush
+D. Two Arithmetic Progressions
+C. Equal Sums
+A. BuberPool Taxi Optimization
+E. Ciel and Gondolas
+D. Chocolate Bar
+D. Potion Brewing Class
+D. Birthday
+A. Exam
+A. Bus to Udayland
+D. Birthday
+A. Exam
+A. Bus to Udayland
+E. Common Number
+B. Bad Days
+D. Gargari and Permutations
+E. Text Editor
+A. Many Equal Substrings
+D1. Magic Squares
+D. Jzzhu and Numbers
+A. Cottage Village
+F. Copium Permutation
+F. Divide The Students
+B. Expansion coefficient of the array
+D. Imbalanced Array
+B. Restore Cube 
+D. Castle
+D. Decreasing Debts
+C. System Administrator
+A. 123-sequence
+B. Strings of Power
+D. Okabe and City
+F. Ber Patio
+E. Two Arrays and Sum of Functions
+B. Update Files
+G. (Zero XOR Subset)-less
+B. Sonya and Exhibition
+B. Born This Way
+C. Maximize the Intersections
+D. Suitable Replacement
+C. Fixing Typos
+F. Vasya and Array
+F. Communication Towers
+G1. Playlist for Polycarp (easy version)
+G. Colorful Tree Again
+E. Helping Hiasat 
+A. Average Height
+B. Digits Sequence (Hard Edition)
+E3. The Beaver's Problem - 2
+B. String Problem
+C. Hobbits' Party
+B. Suspects
+D. New Year and Conference
+B. Find The Array
+G. Sorting Pancakes
+B. Maximum of Maximums of Minimums
+J. Italian Data Centers
+B. Need For Brake
+D. Similar Arrays
+C. Ehab and Path-etic MEXs
+C. Fetch the Treasure
+F. Asya And Kittens
+A. Likes
+B. Chloe and the sequence 
+A. Is it rated?
+E. A Museum Robbery
+A. k-Amazing Numbers
+A1. Figure out direction of CNOT
+H2. Game of AI (hard version)
+B. Gnikool Ssalg
+E. Permutation Separation
+A. Sasha and Sticks
+E. Choosing The Commander
+A. Cinema Line
+A. Cookies
+A. Paint the Numbers
+A. Fast Food Restaurant
+C. Azembler
+B. Equivalent Strings
+A. Quadratic equation
+A. Sea Battle
+D. Toy Sum
+D. Choosing Subtree is Fun
+B. Planet Lapituletti
+D. Walking Between Houses
+B. String LCM
+H. Rogue-like Game
+D. Tanks
+A2. Oh Sweet Beaverette
+D. Score of a Tree
+D. Boboniu and Jianghu
+B. Orac and Medians
+B. Solitaire
+E. Velepin and Marketing
+C. Paprika and Permutation
+E. Spanning Tree Queries
+E. Beautiful Decomposition
+D. New Year and Ancient Prophecy
+D. LCS Again
+E. Dormitory
+D. Writing a Song
+A. On Number of Decompositions into Multipliers
+F. Bags with Balls
+A. Everyone Loves to Sleep
+B. Om Nom and Dark Park
+C. Crazy Diamond
+D. Replace by MEX
+E. Dome
+A. Direction Change
+G. Unequal Adjacent Elements
+F. Tree and XOR
+A. Immobile Knight
+C. Vectors
+A. Aramic script
+B. Sleepy Game
+E. Maxim and Calculator
+B. Dynamic Problem Scoring
+A. Increasing by Modulo
+B. Arpa�s obvious problem and Mehrdad�s terrible solution
+B. Arpa�s obvious problem and Mehrdad�s terrible solution
+G. Changing Brackets
+B. GameGame
+D. Restructuring Company
+D. Tennis Rackets
+B. Mice
+G. Secure Password
+E. Upside Down
+G. Indie Album
+A. Lucky Division
+A1. Collective Mindsets (easy)
+A. Wilbur and Swimming Pool
+08. Labyrinth-8
+E. A Convex Game
+A. Even Subset Sum Problem
+B2. Character Swap (Hard Version)
+E. Casinos and travel
+E. Carrots for Rabbits
+B. LCM
+G. Minimum Difference
+A. Next Test
+C. Boboniu and Bit Operations
+B. Lottery
+B. Almost Ternary Matrix
+A. Gregor and Cryptography
+D. Numbers
+G. Gastronomic Event
+A. Rotate, Flip and Zoom
+E. Bash Plays with Functions
+A. Frames
+D. Cyclic Rotation
+F. Closest Pair 
+A. Room Leader
+B. Most socially-distanced subsequence
+B. Count Pairs
+A. Friends Meeting
+C. Vasya and Golden Ticket
+F. Cheap Robot
+C. Vasya and String
+A. Dubstep
+B. Chamber of Secrets
+C. Space Formula
+E. Dasha and cyclic table
+E. Piglet's Birthday
+B. Valera and Contest
+C. Polycarpus' Dice
+E. Orchestra
+B. On Sum of Fractions
+A. Almost Prime
+F. Dasha and Photos
+B. AND 0, Sum Big
+B. Sequential Nim
+B. Who's Opposite?
+B. Battleship
+B. Petya and Countryside
+F. One Node is Gone
+E. Maximums and Minimums
+C. Ultimate Weirdness of an Array
+A. Rock-paper-scissors
+H. Number of Components
+B. Bad Prices
+A. Contest
+F. Kirei and the Linear Function
+C2. Increasing Subsequence (hard version)
+B. Gardener and the Array
+A. Little Artem
+E. The Classic Problem
+C. Long Jumps
+B. Ping-Pong (Easy Version)
+C. Kicker
+G. Zoning Restrictions
+E. Number Clicker
+D2. Magic Squares
+B1. Koa and the Beach (Easy Version)
+B. Code For 1
+B. Special Olympics
+C. No More Inversions
+K. Knitting Batik
+D. Persistent Bookcase 
+E. Sum of Matchings
+A. Not Wool Sequences
+B. Fedya and Array
+E. Fafa and Ancient Mathematics
+D. Vasya and Arrays
+K. King's Task
+B. Obtain Two Zeroes
+I. Illusions of the Desert
+B. Routine Problem
+B. Maximum Value
+D2. RGB Substring (hard version)
+E. Shaass the Great
+D. Tricky Function
+A. Mister B and Boring Game
+B. Hyperset
+E. Nezzar and Tournaments
+F1. Guess the K-th Zero (Easy version)
+B. Chris and Magic Square
+D5. The Beaver's Problem - 3
+C. E-reader Display
+K. Roads Orientation Problem
+D. Swap Pass
+C. George and Number
+A. Square Counting
+B. Two Heaps
+C. Omkar and Determination
+C. Captains Mode
+E. Gold Transfer
+A. Soroban
+C. Dora and Search
+C. Array and Operations
+C. Celex Update
+D. Slime
+F. Selection of Personnel
+B. Computer Game
+A. Cut and Paste
+B. Pair of Toys
+B. Simple Game
+B. Peculiar Movie Preferences
+A. Reorder the Array
+B. bHTML Tables Analisys
+F. Football
+F. Keep talking and nobody explodes � easy
+B. M-arrays
+B. New York Hotel
+G. Tree Weights
+A. Colored Balls: Revisited
+D. Cube Snake
+E. Darth Vader and Tree
+C2. Power Transmission (Hard Edition)
+D. Dominoes
+E. Ela Goes Hiking
+B. Mammoth's Genome Decoding
+H. Table Bowling
+E2. Erase and Extend (Hard Version)
+E. Maximum Subsequence Value
+E. Case of Computer Network
+B. Three matrices
+B. Little Elephant and Elections
+B. Petya and Square
+D. Array Differentiation
+B. NIT Destroys the Universe
+C. Lucky Subsequence
+F. Plane of Tanks
+A. Choose Two Numbers
+D. Vladik and Favorite Game
+A. Santa Claus and a Place in a Class
+A. Autocomplete
+A. New Year and Counting Cards
+D. Weighting a Tree
+B. Avoid Local Maximums
+A. Jabber ID
+B. Imbalanced Arrays
+B. Godsend
+L. Bars
+D. Building Bridge
+A. LuoTianyi and the Show
+C. K-Dominant Character
+B. Permutations & Primes
+G. Galaxy Union
+F. Yet Another Minimization Problem
+D. Dividing Kingdom II
+H. The Third Letter
+B2. Not A, not B or not C?
+B. Candies
+E. Drazil and Park
+D. Sweepstake
+B. Also Try Minecraft
+D. Again?
+F. Paths
+D5. Quantum Classification - Dataset 7
+B. Passwords
+B. Smile House
+F. Zigzag Game
+D. Social Circles
+J. Bottles
+A. Exercising Walk
+D. Simple Subset
+A. Special Permutation
+B. Bear and Blocks
+D. Optical Experiment
+G. Diverse Coloring
+E. Delete a Segment
+D. Tavas in Kansas
+I. Loader
+C. History
+F. Number of Components
+A. USB Flash Drives
+D. Bandit in a City
+B. MEXor Mixup
+F. Array Partition
+F. Favorite Game
+A. Sereja and Mugs
+C. Minus and Minus Give Plus
+A. Escape from Stones
+A. New Year Garland
+D. Mr. Bender and Square
+E. Bear in the Field
+A. Maximum GCD
+D. Flip and Reverse
+B. Ela's Fitness and the Luxury Number
+A. Line to Cashier
+A. Lengthening Sticks
+B. Big Segment
+G. Permutation Concatenation
+A. Lucky Permutation Triple
+A. Die Roll
+B. Getting Zero
+A. Andryusha and Socks
+B. Spongebob and Joke
+B. Which floor?
+B. Powers of Two
+I. PermutationForces
+C. The Art of Dealing with ATM
+F. Rebrending
+E. Price Maximization
+F. Lunar New Year and a Recursive Sequence
+B. Maximize Sum of Digits
+A. Portal
+B. Find the Spruce
+D. Recover a functional graph
+E2. Another array reconstruction algorithm
+F. Digits of Number Pi
+C. PLEASE
+C. Make a Square
+C. Anagram
+C. Dolce Vita
+A. Free Ice Cream
+D. Edge Elimination
+B. Arpa and an exam about geometry
+D. AB-Strings
+B. Permutation Sort
+F. Card Game
+A. Levko and Array Recovery
+C. Email address
+A. Factorial
+C. Hills
+D. A Shade of Moonlight
+A. Nicholas and Permutation
+C. Lieges of Legendre
+B. Masha and geometric depression
+B. Keyboard
+B. Karina and Array
+F. Ones
+F. Berland Elections
+A. Lucky?
+H. Phone Number
+D. Doctor's Brown Hypothesis
+A. Shockers
+D. Ceil Divisions
+F. Cutlet
+E. Lunar New Year and Red Envelopes
+A. Crazy Computer
+B. Suffix Operations
+H. Gambling
+A. Two 0-1 Sequences
+C. Tanya and Colored Candies
+B. BerSU Ball
+A. Pythagorean Theorem II
+C. Item World
+E. Trips
+E. Treasure Hunt
+E. Subset Trick
+E. Power or XOR?
+D1. 388535 (Easy Version)
+F. Bingo
+F. Subtree Minimum Query
+F. Julia the snail
+K. Kingdom of Criticism
+E. By Elevator or Stairs?
+B. Perfect Number
+A. Caisa and Sugar
+A. Array Balancing
+A. Spy Detected!
+B. Inna, Dima and Song
+A. Era
+F. Letters Removing
+A. Dasha and Stairs
